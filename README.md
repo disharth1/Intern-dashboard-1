@@ -4,13 +4,13 @@ A simple intern dashboard web app.
 
 ## 📸 Screenshots
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard]("C:\Users\deepa\OneDrive\Pictures\Screenshots\dashboard.png")
 
 ### Login Page
-![Login](./screenshots/login.png)
+![Login]("C:\Users\deepa\OneDrive\Pictures\Screenshots\login.png")
 
 ### Leaderboard (Optional)
-![Leaderboard](./screenshots/leaderboard.png)
+![Leaderboard]("C:\Users\deepa\OneDrive\Pictures\Screenshots\leaderboard.png")
 
 ## 🛠️ Tech Stack
 - Frontend: HTML/CSS/JavaScript (or React)
