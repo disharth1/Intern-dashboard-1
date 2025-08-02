@@ -27,8 +27,8 @@ A simple intern dashboard web app.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/disharth1/Intern-dashboard-1
-
-2. **Open the folder in VS Code**
+...bash
+###2. **Open the folder in VS Code**
 - Go to folder using `cd your-repo-name`
 - Open with: `code .`
 
