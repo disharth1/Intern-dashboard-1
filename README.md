@@ -25,8 +25,9 @@ A simple intern dashboard web app.
 ## 💻 Setup Instructions
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/disharth1/Intern-dashboard-1
+<pre>```bash
+git clone https://github.com/disharth1/Intern-dashboard-1 
+```</pre>  
 
 
 
