@@ -28,6 +28,7 @@ A simple intern dashboard web app.
 <pre>```bash
 git clone https://github.com/disharth1/Intern-dashboard-1 
 ```</pre>  
+###2.Install Dependencies
 
 
 
