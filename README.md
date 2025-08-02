@@ -27,18 +27,6 @@ A simple intern dashboard web app.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/disharth1/Intern-dashboard-1
-...bash
-###2. **Open the folder in VS Code**
-- Go to folder using `cd your-repo-name`
-- Open with: `code .`
 
-3. **Install Express (only once)**
-   npm install express
-4.**Run the backend server**
-   node server.js
-5.**Open in browser**
-http://localhost:3000
 
-## Created By
-Disharth Soni
 
