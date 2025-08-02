@@ -29,10 +29,17 @@ A simple intern dashboard web app.
 git clone https://github.com/disharth1/Intern-dashboard-1 
 </pre>  
 2.Install Dependencies
-<pre>```bash
+<pre>
 npm install
-```</pre>  
-
-
+</pre>  
+3.Start the Backend Server
+<pre>
+node server.js
+</pre>  
+4.Open Website in Browser
+-once server starts,go to:
+<pre>
+http//localhost:3000
+</pre>  
 
 
